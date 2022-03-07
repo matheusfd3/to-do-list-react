@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" background="#ccc">
   <img alt="logo" title="logo" src="public/logo.svg"  />
 </h1>
 
