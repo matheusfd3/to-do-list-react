@@ -1,7 +1,6 @@
-<h1 align="center" style="background-color:#F3F3F3">
-  ```
+<h1 align="center">
   <img alt="logo" title="logo" src="public/logo.svg"  />
-  ```
+
 </h1>
 
 ## Primeiro Acesso
