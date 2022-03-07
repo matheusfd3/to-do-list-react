@@ -1,5 +1,7 @@
 <h1 align="center" style="background-color:#F3F3F3">
+  ```
   <img alt="logo" title="logo" src="public/logo.svg"  />
+  ```
 </h1>
 
 ## Primeiro Acesso
